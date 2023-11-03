@@ -44,7 +44,8 @@ class FootballAdmin(admin.ModelAdmin):
 ```
 
 ## OUTPUT
-![Alt text](<Screenshot 2023-11-03 214358.png>)
+![Screenshot 2023-11-03 214358](https://github.com/vasanvasab/ORM/assets/143481226/041409be-3a68-4848-bc68-3c96fd21be0c)
+
 
 
 
